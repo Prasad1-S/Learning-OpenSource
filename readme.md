@@ -1,0 +1,1 @@
+goal is to make a html css and js and connect all.
